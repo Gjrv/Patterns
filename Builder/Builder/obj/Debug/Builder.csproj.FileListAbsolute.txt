@@ -1,0 +1,6 @@
+c:\users\gjrv\documents\visual studio 2017\Projects\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+c:\users\gjrv\documents\visual studio 2017\Projects\Builder\Builder\bin\Debug\Builder.exe.config
+c:\users\gjrv\documents\visual studio 2017\Projects\Builder\Builder\bin\Debug\Builder.exe
+c:\users\gjrv\documents\visual studio 2017\Projects\Builder\Builder\bin\Debug\Builder.pdb
+c:\users\gjrv\documents\visual studio 2017\Projects\Builder\Builder\obj\Debug\Builder.exe
+c:\users\gjrv\documents\visual studio 2017\Projects\Builder\Builder\obj\Debug\Builder.pdb
