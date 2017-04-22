@@ -1,0 +1,6 @@
+c:\users\gjrv\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\Proxy.exe.config
+c:\users\gjrv\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\Proxy.exe
+c:\users\gjrv\documents\visual studio 2017\Projects\Proxy\Proxy\bin\Debug\Proxy.pdb
+c:\users\gjrv\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+c:\users\gjrv\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.exe
+c:\users\gjrv\documents\visual studio 2017\Projects\Proxy\Proxy\obj\Debug\Proxy.pdb
